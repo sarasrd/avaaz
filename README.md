@@ -6,7 +6,7 @@ This collection is produced by Sara Saeed. It is based on [Radif-e Karimi](https
 - Toosi ([audio](./mahoor_toosi.mp4),[text](./mahoor_toosi.pdf))
 - Daramad ([audio](./mahoor_daramad.mp4),[text](./mahoor_daramad.pdf))
 - Daad ([audio](./mahoor_daad.mp4),[text](./mahoor_daad.pdf))
-- Saghi-nameh ([audio](./saaqi_nameh.mp4),[text](./saaqi_nameh.pdf))
+- Saghi-nameh ([audio](./mahoor_saaqi_nameh.mp4),[text](./mahoor_saaqi_nameh.pdf))
 - Shekasteh ([audio](./mahoor_shekasteh.mp4),[text](./mahoor_shekasteh.pdf))
 - Naseer-khani ([audio](./mahoor_nasirkhani.mp4),[text](./mahoor_nasirkhani.pdf))
 - Masnavi ([audio](./mahoor_masnavi.mp4),[text](./mahoor_masnavi.pdf))
