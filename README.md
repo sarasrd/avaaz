@@ -1,31 +1,31 @@
 ## Welcome to Avaaz SRD
 
 ### Mahoor
-- Toosi ([audio](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4),[text](https://github.com/sarasrd/avaaz/files/7654132/mahoor_toosi.pdf))
-- Daramad ([audio](https://user-images.githubusercontent.com/95536232/144715422-cab9978b-ed64-4d3a-82f8-615935854e2f.mp4),[text](https://github.com/sarasrd/avaaz/files/7654163/mahoor_daramad.pdf))
+- Toosi ([audio](./mahoor_toosi.mp4),[text](./mahoor_toosi.pdf))
+- Daramad ([audio](./mahoor_daramad.mp4),[text](./mahoor_daramad.pdf))
 - Daad ([audio](./mahoor_daad.mp4),[text](./mahoor_daad.pdf))
-- Saghi-nameh ([audio](),[text]())
-- Shekasteh ([audio](),[text]())
-- Naseer-khani ([audio](),[text]())
-- Masnavi ([audio](),[text]())
+- Saghi-nameh ([audio](./saaqi_nameh.mp4),[text](./saaqi_nameh.pdf))
+- Shekasteh ([audio](./mahoor_shekasteh.mp4),[text](./mahoor_shekasteh.pdf))
+- Naseer-khani ([audio](./mahoor_nasirkhani.mp4),[text](./mahoor_nasirkhani.pdf))
+- Masnavi ([audio](./mahoor_masnavi.mp4),[text](./mahoor_masnavi.pdf))
 
 ### Esfahan
 
-- Daramad([audio](),[text]())
-- Jameh-daran([audio](),[text]())
-- Bayat-erajea'([audio](),[text]())
-- Owj([audio](),[text]())
+- Daramad([audio](./esfahan_daramad.mp4),[text](./esfahan_daramad.pdf))
+- Jameh-daran([audio](./esfahan_jameh_daran.mp4),[text](./esfahan_jameh_daran.pdf))
+- Bayat-erajea'([audio](./esfahan_bayat_e_rajea.mp4),[text](./esfahan_bayat_e_rajea.pdf))
+- Owj([audio](./esfahan_owj.mp4),[text](./esfahan_owj.pdf))
 
 ### Dashti
 
-- Daramad([audio](),[text]())
-- Bayat-e-rajea'([audio](),[text]())
-- Owj-e-oshaagh([audio](),[text]())
-- Deylaman([audio](),[text]())
+- Daramad([audio](./dashti_daramad.mp4),[text](./dashti_daramad.pdf))
+- Bayat-e-rajea'([audio](./dashti_bayat_e_rajea.mp4),[text](./dashti_bayat_e_rajea.pdf))
+- Owj-e-oshaagh([audio](./dashti_owj_e_oshaaq.mp4),[text](./dashti_owj_e_oshaaq.pdf))
+- Deylaman([audio](./dashti_deylaman.mp4),[text](./dashti_deylaman.pdf))
 
 ### Homayoon
 
-- Daramad([audio](),[text]())
+- Daramad([audio](./homayoon_daramad.mp4),[text](./homayoon_daramad.pdf))
  
 ### Support or Contact
 
