@@ -1,5 +1,7 @@
 ## Welcome to Avaaz SRD
 
+This collection is produced by Sara Saeed. It is based on [Radif-e Karimi](https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D9%88%D8%AF_%DA%A9%D8%B1%DB%8C%D9%85%DB%8C_(%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C%E2%80%8C%D8%AF%D8%A7%D9%86)).
+
 ### Mahoor
 - Toosi ([audio](./mahoor_toosi.mp4),[text](./mahoor_toosi.pdf))
 - Daramad ([audio](./mahoor_daramad.mp4),[text](./mahoor_daramad.pdf))
@@ -26,7 +28,3 @@
 ### Homayoon
 
 - Daramad([audio](./homayoon_daramad.mp4),[text](./homayoon_daramad.pdf))
- 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
