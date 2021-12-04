@@ -3,7 +3,7 @@
 ### Mahoor
 - Toosi ([audio](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4),[text](https://github.com/sarasrd/avaaz/files/7654132/mahoor_toosi.pdf))
 - Daramad ([audio](https://user-images.githubusercontent.com/95536232/144715422-cab9978b-ed64-4d3a-82f8-615935854e2f.mp4),[text](https://github.com/sarasrd/avaaz/files/7654163/mahoor_daramad.pdf))
-- Daad ([audio](),[text]())
+- Daad ([audio](mahoor_daad.mp4),[text](mahoor_daad.pdf))
 - Saghi-nameh ([audio](),[text]())
 - Shekasteh ([audio](),[text]())
 - Naseer-khani ([audio](),[text]())
