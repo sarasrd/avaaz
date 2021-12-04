@@ -3,16 +3,19 @@
 ### Mahoor
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Goosheh</b></td>
+    <td><b style="font-size:30px">Audio</b></td>
+    <td><b style="font-size:30px">Text</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum Toosi</td>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
     <td>Lorem ipsum ...</td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>  
  </tr> 
 </table>
 
