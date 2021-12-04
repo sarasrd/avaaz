@@ -2,6 +2,7 @@
 
 
 ### Mahoor
+
 #### Toosi
 
 - [Text](https://github.com/sarasrd/avaaz/files/7654132/mahoor_toosi.pdf)
@@ -9,12 +10,6 @@
 - [audio](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)
 
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sarasrd/avaaz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
