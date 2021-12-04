@@ -3,13 +3,13 @@
 ### Mahoor
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">[Toosi](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>
-    <td><b style="font-size:30px">[Daramad](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>
-    <td><b style="font-size:30px">[Daad](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>
-    <td><b style="font-size:30px">[Saqi Nameh](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>  
-    <td><b style="font-size:30px">[Shekasteh](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>  
-    <td><b style="font-size:30px">[Naseerkhani](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>  
-    <td><b style="font-size:30px">[Masnavi](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>  
+    <td>< style="font-size:30px"> [audio](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>
+    <td>< style="font-size:30px"> [Daramad](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>
+    <td>< style="font-size:30px"> [Daad](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>
+    <td>< style="font-size:30px"> [Saqi Nameh](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>  
+    <td>< style="font-size:30px"> [Shekasteh](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>  
+    <td>< style="font-size:30px"> [Naseerkhani](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>  
+    <td>< style="font-size:30px"> [Masnavi](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)</b></td>  
  </tr>
 </table>
 
@@ -17,7 +17,7 @@
 
 - [Text](https://github.com/sarasrd/avaaz/files/7654132/mahoor_toosi.pdf)
 
-- [audio](https://user-images.githubusercontent.com/95536232/144714293-17d5335d-b698-4448-af71-f7701cf51c0b.mp4)
+- 
 
 
 
